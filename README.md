@@ -1,4 +1,6 @@
 NTSUT_CGAL_Library
 ==================
 
-CGAL libraries created by computer graphic lab of NTUST in Taiwan.
+CGAL libraries created at computer graphic lab of NTUST in Taiwan.
+
+contact:mio780308@gmail.com
